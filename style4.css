@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(12, 13, 14);
+    background-color: rgb(218, 155, 158);
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+    font-size: 2em;
+}
+
+body {
+    background-color: rgb(247, 235, 181)
+}
+
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(197, 209, 91);
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: rgb(197, 232, 245);
+    text-decoration: none;
+    color: rgb(9, 14, 14)
+}
